@@ -4,7 +4,7 @@
 
 The scripts in this package will install and configure your computer to use two combined (1 set, L and R) Nintendo Joycon controllers as a single controller input.
 
-Download here:
+## Download here:
 
 https://github.com/DrakeShady/JoyCon-Connection-Scripts/raw/master/Joycon%20Setup.zip
 
