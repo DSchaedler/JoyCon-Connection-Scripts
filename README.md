@@ -1,33 +1,38 @@
-Windows Joycon setup package.
-By D Schaedler
+# Windows Joycon setup package.
+
+### By D Schaedler
 
 The scripts in this package will install and configure your computer to use two combined (1 set, L and R) Nintendo Joycon controllers as a single controller input.
 
 
-The scripts should be self explanitory.
+The scripts should be self explanatory.
 
 Install.bat installs vJoy, prompts the user to configure vJoy, creates a shortcut to \assets\joycon-driver\joycon-driver.exe, and provides more basic instruction.
 
-Connect.bat starts vJoyConf.exe and JoyMonitor.exe. vJoyConf.exe is required to connect the JoyCons, and JoyMonitor allows the user to check the joycon button layouts.
+Connect.bat starts vJoyConf.exe and JoyMonitor.exe. vJoyConf.exe is required to connect the JoyCons, and JoyMonitor.exe allows the user to check the joycon button layouts.
 
 
+**This package is released under the MIT License, reproduced below.**
 
-This package is released under the MIT License, reproduced below.
+**This package uses JoyCon-Driver, by Matthew Fosse.**
 
-
-This package uses JoyCon-Driver, by Matthew Fosse
-
-.
 JoyCon-Driver is released under the MIT License, provided in \assets\joycon-driver\LICENSE.txt
+
 The source code is availible here:
+
 https://github.com/mfosse/JoyCon-Driver
 
 
-This package uses vJoy, by Shaul Eizikovich.
+**This package uses vJoy, by Shaul Eizikovich.**
+
 vJoy is released under the Public Domain.
+
 The license terms are explained here:
+
 http://vjoystick.sourceforge.net/site/index.php/forum/5-Discussion/104-what-is-the-usage-license-for-this-software
+
 The vJoy homepage is here:
+
 http://vjoystick.sourceforge.net/site/
 
 
